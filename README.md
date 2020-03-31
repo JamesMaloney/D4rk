@@ -1,7 +1,7 @@
 # D4rk
 A minimal but nice 4k dark theme for [Clover bootloader](https://sourceforge.net/projects/cloverefiboot/).
 
-It's mainly a 4k accomodation of the [clover-theme-minimal-dark by ImmersiveX](https://github.com/ImmersiveX/clover-theme-minimal-dark), which was already phenomenal yet badly optimized for HiDPI displays, but it also contains some features from [Badruzeus's Catalina4k](https://sourceforge.net/p/cloverefiboot/themes/ci/master/tree/themes/Catalina4k/), that is one of the most astonishing themes out there, on both graphical and chromatic aspects.
+It's mainly a 4k accomodation of the [minimal-dark clover theme by ImmersiveX](https://github.com/ImmersiveX/clover-theme-minimal-dark), which was already phenomenal yet badly optimized for HiDPI displays, but it also contains some features from [Badruzeus's Catalina4k](https://sourceforge.net/p/cloverefiboot/themes/ci/master/tree/themes/Catalina4k/), that is one of the most astonishing themes out there, on both graphical and chromatic aspects.
 
 ![Screenshot](https://github.com/JamesMaloney/D4rk/blob/master/screenshot.png)
 
